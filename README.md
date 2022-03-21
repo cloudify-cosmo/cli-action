@@ -30,5 +30,7 @@ jobs:
 
 # More Information
 
+Refer to [Cloudify CLI Documentation](https://docs.cloudify.co/latest/cli/) for additional information about `cfy` command line.
+
 Refer to [Cloudify CI/CD Integration](https://docs.cloudify.co/latest/working_with/integration/) for additional information about
 Cloudify's integration with CI/CD tools.
