@@ -23,7 +23,7 @@ jobs:
   test_job:
     steps:
       - name: Run some command
-        uses: cloudify-cosmo/cli-action@v1.2
+        uses: cloudify-cosmo/cli-action@v1.3
         with:
           command: "blueprints list"
 ```
